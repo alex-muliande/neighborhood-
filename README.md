@@ -6,7 +6,7 @@ Alex Muliande
 
 
 ### Screenshot
-<img src="https://github.com/alex-muliande/Vicinity/blob/master/Screenshot%20from%202019-10-25%2016-39-15.png" width="1000">
+<img src="https://github.com/alex-muliande/neighborhood-/blob/master/Screenshot%20from%202019-10-31%2016-55-56.png" width="1000">
 
 ### Requirements
 ##### These are the requirements you need to get the project running locally on your machine:
