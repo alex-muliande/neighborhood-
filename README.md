@@ -1,6 +1,6 @@
 ### Vicinity
 ### Description
-##### Vicinity is a platform where users can display their projects for others to see, they can also  see other peoples Projects with the languages they have used. 
+##### A web application that allows you to be in the loop about everything happening in your neighborhood. From contact information of different handyman to meeting announcements or even alerts. 
 ### Author
 Alex Muliande
 
